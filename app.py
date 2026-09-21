@@ -11,6 +11,7 @@ class GreeterHandler(BaseHTTPRequestHandler):
             <body>
                 <h1>Hello, Talha!</h1>
                 <p>Welcome to my containerized Python application.</p>
+                <p>Learning Git and Docker!</p>
             </body>
         </html>
         """
