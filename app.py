@@ -9,7 +9,7 @@ class GreeterHandler(BaseHTTPRequestHandler):
                 <title>Greeter App</title>
             </head>
             <body>
-                <h1>Hello, Talha!</h1>
+                <h1>Hi, Talha!</h1>
                 <p>Welcome to my containerized Python application.</p>
                 <p>Learning Git and Docker!</p>
             </body>
